@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "testapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
